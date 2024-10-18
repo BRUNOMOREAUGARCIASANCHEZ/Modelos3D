@@ -1,0 +1,24 @@
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\ProyectoFinal\ProyectoFinal\bin\Debug\OpenTK.dll
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\ProyectoFinal\ProyectoFinal\bin\Debug\OpenTK.pdb
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\ProyectoFinal\ProyectoFinal\bin\Debug\OpenTK.xml
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+D:\GRAF\ProyectoFinal_R\ProyectoFinal\obj\Debug\ProyectoFinal.csprojResolveAssemblyReference.cache
+D:\GRAF\ProyectoFinal_R\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+D:\GRAF\ProyectoFinal_R\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+D:\GRAF\ProyectoFinal_R\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+D:\GRAF\ProyectoFinal_R\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+D:\GRAF\ProyectoFinal_R\ProyectoFinal\bin\Debug\OpenTK.dll
+D:\GRAF\ProyectoFinal_R\ProyectoFinal\bin\Debug\OpenTK.pdb
+D:\GRAF\ProyectoFinal_R\ProyectoFinal\bin\Debug\OpenTK.xml
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\ProyectoFinal_R\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\ProyectoFinal_R\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\ProyectoFinal_R\ProyectoFinal\bin\Debug\OpenTK.dll
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\ProyectoFinal_R\ProyectoFinal\bin\Debug\OpenTK.pdb
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\ProyectoFinal_R\ProyectoFinal\bin\Debug\OpenTK.xml
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\ProyectoFinal_R\ProyectoFinal\obj\Debug\ProyectoFinal.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\ProyectoFinal_R\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\PC\Desktop\Maki\ZTarea\BUAP\Oto 2022\Graficos\ProyectoFinal_R\ProyectoFinal\obj\Debug\ProyectoFinal.pdb

@@ -1,0 +1,28 @@
+# Blender MTL File: 'Sketchfab_2022_11_15_18_51_05.blend'
+# Material Count: 2
+
+newmtl Maxwell_Body
+Ns 194.400824
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.186364 0.186364 0.186364
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Downloads\\cat\\export\\models\\dingus\\Maxwell_The_Cat\\Maxwell_Normal.png
+map_Kd D:\\Downloads\\cat\\export\\models\\dingus\\Maxwell_The_Cat\\Maxwell_Diffuse.png
+map_Ks D:\\Downloads\\cat\\export\\models\\dingus\\Maxwell_The_Cat\\Maxwell_Specular.png
+map_Ns D:\\Downloads\\cat\\export\\models\\dingus\\Maxwell_The_Cat\\Maxwell_Roughness.png
+
+newmtl Maxwell_Whiskers
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Downloads\\cat\\export\\models\\dingus\\Maxwell_The_Cat\\Maxwell_Whiskers.png
+map_d D:\\Downloads\\cat\\export\\models\\dingus\\Maxwell_The_Cat\\Maxwell_Whiskers.png
